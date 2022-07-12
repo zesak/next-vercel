@@ -1,0 +1,10 @@
+.menu-container{
+	background-color: #FFF;
+	display: flex;
+	gap: 1rem;
+}
+.menu-container a{
+	display: block;
+	padding: 1rem;
+	color: blue;
+}
